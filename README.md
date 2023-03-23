@@ -1,5 +1,5 @@
 # IC-IS-measure
-Codes to reproduce the IC-IS measure I proposed in Zema (2023) for price discovery in a Non-Normal setting.
+Codes to reproduce the IC-IS measure I proposed in Zema (2023) for price discovery in a non-Normal setting.
 
 The folder contains the following files:
 
